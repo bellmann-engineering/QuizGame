@@ -10,7 +10,7 @@ Module Program
 
     End Sub
 
-    Function GetNumber() As Integer
+    Function SinnvollerName() As Integer
 
         Return 0
     End Function
