@@ -5,7 +5,7 @@ Module Program
         Console.WriteLine("Hallo Welt!")
 
         For i = 0 To 10 Step 1
-            Console.WriteLine("schleifenlauf")
+            Console.WriteLine("Schleifenlauf")
         Next i
 
     End Sub
