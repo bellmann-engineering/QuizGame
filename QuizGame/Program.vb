@@ -9,4 +9,10 @@ Module Program
         Next i
 
     End Sub
+
+    Function MyFunc() As Integer
+
+        Return 0
+    End Function
+
 End Module
