@@ -10,7 +10,7 @@ Module Program
 
     End Sub
 
-    Function MyFunc() As Integer
+    Function GetNumber() As Integer
 
         Return 0
     End Function
